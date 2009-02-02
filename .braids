@@ -20,6 +20,13 @@ vendor/plugins/open_id_authentication:
   type: git
   revision: 9235be22566039dfd0b333d2052c347f2f8946d2
   remote: braid/vendor/plugins/open-id-authentication
+vendor/plugins/asset_packager: 
+  squashed: true
+  url: git://github.com/sbecker/asset_packager.git
+  branch: master
+  type: git
+  revision: e6a0303aeeb87ad6269ac01bc7dfd53d1ae9964a
+  remote: braid/vendor/plugins/asset-packager
 vendor/plugins/ar-backup: 
   squashed: true
   url: git://github.com/vertis/ar-backup.git
