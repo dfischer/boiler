@@ -32,6 +32,7 @@ Rails::Initializer.run do |config|
   config.gem 'mislav-will_paginate', :version => '2.3.6', :lib => 'will_paginate', :source => 'http://gems.github.com'
   config.gem 'haml'
   config.gem 'chriseppstien-compass', :lib => 'compass', :source => 'http://gems.github.com'
+  config.gem 'evilchelu-braid', :lib => 'braid', :source => 'http://gems.github.com'
   
   # These cause problems with irb. Left in for reference
   # config.gem 'rspec-rails', :lib => 'spec/rails', :version => '1.1.11'
