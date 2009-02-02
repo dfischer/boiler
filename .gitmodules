@@ -7,3 +7,6 @@
 [submodule "vendor/plugins/ar-backup"]
 	path = vendor/plugins/ar-backup
 	url = git://github.com/mattetti/ar-backup.git
+[submodule "vendor/plugins/jrails"]
+	path = vendor/plugins/jrails
+	url = git://github.com/aaronchi/jrails.git
