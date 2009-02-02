@@ -6,6 +6,13 @@ vendor/plugins/hoptoad_notifier:
   type: git
   revision: b54dce1581b9aaffab8c885a8470524110c0633c
   remote: braid/vendor/plugins/hoptoad-notifier
+vendor/plugins/limerick_rake: 
+  squashed: true
+  url: git://github.com/thoughtbot/limerick_rake.git
+  branch: master
+  type: git
+  revision: 8b44a7fd2520b80864c03344c8e33c055a95e634
+  remote: braid/vendor/plugins/limerick-rake
 vendor/plugins/forgot_password: 
   squashed: true
   url: git://github.com/greenisus/forgot_password.git
