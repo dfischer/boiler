@@ -20,6 +20,13 @@ vendor/plugins/forgot_password:
   type: git
   revision: e9c2d5838e173d6be251f95923ca00819a1d3464
   remote: braid/vendor/plugins/forgot-password
+vendor/plugins/shoulda: 
+  squashed: true
+  url: git://github.com/thoughtbot/shoulda.git
+  branch: master
+  type: git
+  revision: 44ceeb7b1ba9cc16203bde80b4191e92420eb5ed
+  remote: braid/vendor/plugins/shoulda
 vendor/plugins/jrails: 
   squashed: true
   url: git://github.com/aaronchi/jrails.git
