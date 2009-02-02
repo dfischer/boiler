@@ -1,78 +1,71 @@
 --- 
-vendor/plugins/restful-authentication: 
-  squashed: true
-  url: git://github.com/technoweenie/restful-authentication.git
-  branch: master
-  type: git
-  revision: 61cd9b377c0b481384f123dc628a2f8cc5ea5fdf
-  remote: braid/vendor/plugins/restful-authentication
 vendor/plugins/hoptoad_notifier: 
   squashed: true
-  url: git://github.com/thoughtbot/hoptoad_notifier.git
   branch: master
+  url: git://github.com/thoughtbot/hoptoad_notifier.git
   type: git
   revision: b54dce1581b9aaffab8c885a8470524110c0633c
   remote: braid/vendor/plugins/hoptoad-notifier
-vendor/plugins/limerick_rake: 
-  squashed: true
-  url: git://github.com/thoughtbot/limerick_rake.git
-  branch: master
-  type: git
-  revision: 8b44a7fd2520b80864c03344c8e33c055a95e634
-  remote: braid/vendor/plugins/limerick-rake
 vendor/plugins/forgot_password: 
   squashed: true
-  url: git://github.com/greenisus/forgot_password.git
   branch: master
+  url: git://github.com/greenisus/forgot_password.git
   type: git
   revision: e9c2d5838e173d6be251f95923ca00819a1d3464
   remote: braid/vendor/plugins/forgot-password
-vendor/plugins/shoulda: 
+vendor/plugins/limerick_rake: 
   squashed: true
-  url: git://github.com/thoughtbot/shoulda.git
   branch: master
+  url: git://github.com/thoughtbot/limerick_rake.git
   type: git
-  revision: 44ceeb7b1ba9cc16203bde80b4191e92420eb5ed
-  remote: braid/vendor/plugins/shoulda
+  revision: 8b44a7fd2520b80864c03344c8e33c055a95e634
+  remote: braid/vendor/plugins/limerick-rake
 vendor/plugins/jrails: 
   squashed: true
-  url: git://github.com/aaronchi/jrails.git
   branch: master
+  url: git://github.com/aaronchi/jrails.git
   type: git
   revision: b490fa1a6d81e39d3a8d99f9cce8b57c3397b7d7
   remote: braid/vendor/plugins/jrails
-vendor/plugins/squirrel: 
+vendor/plugins/shoulda: 
   squashed: true
-  url: git://github.com/thoughtbot/squirrel.git
   branch: master
+  url: git://github.com/thoughtbot/shoulda.git
   type: git
-  revision: bb9c40eafd4768dade916441abcaab585cf4a59e
-  remote: braid/vendor/plugins/squirrel
+  revision: 44ceeb7b1ba9cc16203bde80b4191e92420eb5ed
+  remote: braid/vendor/plugins/shoulda
 vendor/plugins/paperclip: 
   squashed: true
-  url: git://github.com/thoughtbot/paperclip.git
   branch: master
+  url: git://github.com/thoughtbot/paperclip.git
   type: git
   revision: 9e71b211c762786f5cd09142efee33c2442049bc
   remote: braid/vendor/plugins/paperclip
+vendor/plugins/squirrel: 
+  squashed: true
+  branch: master
+  url: git://github.com/thoughtbot/squirrel.git
+  type: git
+  revision: bb9c40eafd4768dade916441abcaab585cf4a59e
+  remote: braid/vendor/plugins/squirrel
 vendor/plugins/open_id_authentication: 
   squashed: true
-  url: git://github.com/rails/open_id_authentication.git
   branch: master
+  url: git://github.com/rails/open_id_authentication.git
   type: git
   revision: 9235be22566039dfd0b333d2052c347f2f8946d2
   remote: braid/vendor/plugins/open-id-authentication
 vendor/plugins/asset_packager: 
   squashed: true
-  url: git://github.com/sbecker/asset_packager.git
   branch: master
+  url: git://github.com/sbecker/asset_packager.git
   type: git
   revision: e6a0303aeeb87ad6269ac01bc7dfd53d1ae9964a
   remote: braid/vendor/plugins/asset-packager
 vendor/plugins/ar-backup: 
   squashed: true
-  url: git://github.com/vertis/ar-backup.git
   branch: master
+  url: git://github.com/vertis/ar-backup.git
   type: git
   revision: aa9f776310750cdff8be0cbbf4700f9e6c28c480
   remote: braid/vendor/plugins/ar-backup
