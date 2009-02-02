@@ -34,6 +34,13 @@ vendor/plugins/shoulda:
   type: git
   revision: 44ceeb7b1ba9cc16203bde80b4191e92420eb5ed
   remote: braid/vendor/plugins/shoulda
+vendor/rails: 
+  squashed: true
+  url: git://github.com/rails/rails.git
+  branch: master
+  type: git
+  revision: beca1f2e151558ded3d5a4efebd328ab2533edc6
+  remote: braid/vendor/rails
 vendor/plugins/paperclip: 
   squashed: true
   branch: master
