@@ -1,4 +1,11 @@
 --- 
+vendor/plugins/forgot_password: 
+  squashed: true
+  url: git://github.com/greenisus/forgot_password.git
+  branch: master
+  type: git
+  revision: e9c2d5838e173d6be251f95923ca00819a1d3464
+  remote: braid/vendor/plugins/forgot-password
 vendor/plugins/jrails: 
   squashed: true
   url: git://github.com/aaronchi/jrails.git
