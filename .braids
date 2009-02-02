@@ -1,4 +1,11 @@
 --- 
+vendor/plugins/hoptoad_notifier: 
+  squashed: true
+  url: git://github.com/thoughtbot/hoptoad_notifier.git
+  branch: master
+  type: git
+  revision: b54dce1581b9aaffab8c885a8470524110c0633c
+  remote: braid/vendor/plugins/hoptoad-notifier
 vendor/plugins/forgot_password: 
   squashed: true
   url: git://github.com/greenisus/forgot_password.git
