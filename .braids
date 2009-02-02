@@ -13,6 +13,13 @@ vendor/plugins/jrails:
   type: git
   revision: b490fa1a6d81e39d3a8d99f9cce8b57c3397b7d7
   remote: braid/vendor/plugins/jrails
+vendor/plugins/open_id_authentication: 
+  squashed: true
+  url: git://github.com/rails/open_id_authentication.git
+  branch: master
+  type: git
+  revision: 9235be22566039dfd0b333d2052c347f2f8946d2
+  remote: braid/vendor/plugins/open-id-authentication
 vendor/plugins/ar-backup: 
   squashed: true
   url: git://github.com/vertis/ar-backup.git
