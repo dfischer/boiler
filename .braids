@@ -1,4 +1,11 @@
 --- 
+vendor/plugins/restful-authentication: 
+  squashed: true
+  url: git://github.com/technoweenie/restful-authentication.git
+  branch: master
+  type: git
+  revision: 61cd9b377c0b481384f123dc628a2f8cc5ea5fdf
+  remote: braid/vendor/plugins/restful-authentication
 vendor/plugins/hoptoad_notifier: 
   squashed: true
   url: git://github.com/thoughtbot/hoptoad_notifier.git
