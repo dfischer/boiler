@@ -6,3 +6,10 @@ vendor/plugins/jrails:
   type: git
   revision: b490fa1a6d81e39d3a8d99f9cce8b57c3397b7d7
   remote: braid/vendor/plugins/jrails
+vendor/plugins/ar-backup: 
+  squashed: true
+  url: git://github.com/vertis/ar-backup.git
+  branch: master
+  type: git
+  revision: aa9f776310750cdff8be0cbbf4700f9e6c28c480
+  remote: braid/vendor/plugins/ar-backup
