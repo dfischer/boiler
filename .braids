@@ -27,6 +27,13 @@ vendor/plugins/jrails:
   type: git
   revision: b490fa1a6d81e39d3a8d99f9cce8b57c3397b7d7
   remote: braid/vendor/plugins/jrails
+vendor/plugins/paperclip: 
+  squashed: true
+  url: git://github.com/thoughtbot/paperclip.git
+  branch: master
+  type: git
+  revision: 9e71b211c762786f5cd09142efee33c2442049bc
+  remote: braid/vendor/plugins/paperclip
 vendor/plugins/open_id_authentication: 
   squashed: true
   url: git://github.com/rails/open_id_authentication.git
